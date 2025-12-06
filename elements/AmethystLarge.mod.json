@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.MEDIUM_AMETHYST_BUD"
+      },
+      {
+        "value": "Blocks.MEDIUM_AMETHYST_BUD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.MEDIUM_AMETHYST_BUD"
+      },
+      {
+        "value": "Blocks.MEDIUM_AMETHYST_BUD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LARGE_AMETHYST_BUD"
+    },
+    "name": "amethyst_large",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "mod_elements": [
+    {
+      "name": "AmethystCluster",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_cluster",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/conveniencerecipes/recipes/amethyst_cluster.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystLarge",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_large",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/conveniencerecipes/recipes/amethyst_large.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystMedium",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_medium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/conveniencerecipes/recipes/amethyst_medium.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "conveniencerecipes",
+    "modName": "Convenience Recipes",
+    "version": "1.0.0",
+    "description": "Adds convenient recipes and buffs crafting amounts for certain recipes.",
+    "author": "ReversTeam",
+    "websiteURL": "https://curseforge.com/minecraft/mc-mods/convenience-recipes",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.reversteam.conveniencerecipes"
+  },
+  "mcreatorVersion": 202500113416
+}

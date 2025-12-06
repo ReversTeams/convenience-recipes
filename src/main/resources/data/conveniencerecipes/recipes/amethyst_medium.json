@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:small_amethyst_bud"
+    }
+  },
+  "result": {
+    "item": "minecraft:medium_amethyst_bud",
+    "count": 1
+  }
+}

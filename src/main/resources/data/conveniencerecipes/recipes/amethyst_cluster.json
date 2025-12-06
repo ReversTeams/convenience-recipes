@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:large_amethyst_bud"
+    }
+  },
+  "result": {
+    "item": "minecraft:amethyst_cluster",
+    "count": 1
+  }
+}

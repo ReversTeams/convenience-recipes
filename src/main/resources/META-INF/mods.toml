@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="conveniencerecipes"
+version="1.0.0"
+displayName="Convenience Recipes"
+displayURL="https://curseforge.com/minecraft/mc-mods/convenience-recipes"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="ReversTeam"
+description="Adds convenient recipes and buffs crafting amounts for certain recipes."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.conveniencerecipes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
