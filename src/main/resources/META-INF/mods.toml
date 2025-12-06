@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="Convenience Recipes"
 displayURL="https://curseforge.com/minecraft/mc-mods/convenience-recipes"
 logoFile="logo.png"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Compatible with AE2, Ars Nouveau, Create, Elementalcraft, Hexerei, IntegratedDynamics, Supplementaries, Tinkers' Construct and TFMG."
 authors="ReversTeam"
 description="Adds convenient recipes and buffs crafting amounts for certain recipes."
 

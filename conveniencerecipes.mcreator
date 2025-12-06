@@ -63,6 +63,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Compatible with AE2, Ars Nouveau, Create, Elementalcraft, Hexerei, IntegratedDynamics, Supplementaries, Tinkers\u0027 Construct and TFMG.",
     "modElementsPackage": "net.reversteam.conveniencerecipes"
   },
   "mcreatorVersion": 202500113416
