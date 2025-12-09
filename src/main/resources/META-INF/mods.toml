@@ -4,13 +4,14 @@ license="MIT License"
 
 [[mods]]
 modId="conveniencerecipes"
-version="1.0.0"
+version="1.0.1"
 displayName="Convenience Recipes"
 displayURL="https://curseforge.com/minecraft/mc-mods/convenience-recipes"
 logoFile="logo.png"
 credits="Compatible with AE2, Ars Nouveau, Create, Elementalcraft, Hexerei, IntegratedDynamics, Supplementaries, Tinkers' Construct and TFMG."
 authors="ReversTeam"
 description="Adds convenient recipes and buffs crafting amounts for certain recipes."
+displayTest="IGNORE_SERVER_VERSION"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

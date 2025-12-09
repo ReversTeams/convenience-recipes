@@ -2,7 +2,7 @@
     "type": "crafting_shapeless",
     "result": {
         "item": "minecraft:string",
-        "count": 8
+        "count": 4
     },
     "ingredients": [
         {
