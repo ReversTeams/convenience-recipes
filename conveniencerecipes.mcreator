@@ -51,7 +51,7 @@
   "workspaceSettings": {
     "modid": "conveniencerecipes",
     "modName": "Convenience Recipes",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Adds convenient recipes and buffs crafting amounts for certain recipes.",
     "author": "ReversTeam",
     "websiteURL": "https://curseforge.com/minecraft/mc-mods/convenience-recipes",
@@ -63,7 +63,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
-    "credits": "Compatible with AE2, Ars Nouveau, Create, Elementalcraft, Hexerei, IntegratedDynamics, Supplementaries, Tinkers\u0027 Construct and TFMG.",
+    "credits": "Made by Mitemi",
     "modElementsPackage": "net.reversteam.conveniencerecipes"
   },
   "mcreatorVersion": 202500113416
