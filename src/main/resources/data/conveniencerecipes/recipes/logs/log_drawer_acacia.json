@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "EFG"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:acacia_log"
+    },
+    "B": {
+      "tag": "minecraft:acacia_log"
+    },
+    "C": {
+      "tag": "minecraft:acacia_log"
+    },
+    "D": {
+      "tag": "minecraft:acacia_log"
+    },
+    "E": {
+      "tag": "minecraft:acacia_log"
+    },
+    "F": {
+      "tag": "minecraft:acacia_log"
+    },
+    "G": {
+      "tag": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:acacia_full_drawers_1",
+    "count": 2
+  }
+}

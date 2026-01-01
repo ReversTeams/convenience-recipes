@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "EFG"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:cherry_log"
+    },
+    "B": {
+      "tag": "minecraft:cherry_log"
+    },
+    "C": {
+      "tag": "minecraft:cherry_log"
+    },
+    "D": {
+      "tag": "minecraft:cherry_log"
+    },
+    "E": {
+      "tag": "minecraft:cherry_log"
+    },
+    "F": {
+      "tag": "minecraft:cherry_log"
+    },
+    "G": {
+      "tag": "minecraft:cherry_log"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:cherry_full_drawers_1",
+    "count": 2
+  }
+}

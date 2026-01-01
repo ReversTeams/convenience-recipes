@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "EFG"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:bamboo_log"
+    },
+    "B": {
+      "tag": "minecraft:bamboo_log"
+    },
+    "C": {
+      "tag": "minecraft:bamboo_log"
+    },
+    "D": {
+      "tag": "minecraft:bamboo_log"
+    },
+    "E": {
+      "tag": "minecraft:bamboo_log"
+    },
+    "F": {
+      "tag": "minecraft:bamboo_log"
+    },
+    "G": {
+      "tag": "minecraft:bamboo_log"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:bamboo_full_drawers_1",
+    "count": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "EFG"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:oak_log"
+    },
+    "B": {
+      "tag": "minecraft:oak_log"
+    },
+    "C": {
+      "tag": "minecraft:oak_log"
+    },
+    "D": {
+      "tag": "minecraft:oak_log"
+    },
+    "E": {
+      "tag": "minecraft:oak_log"
+    },
+    "F": {
+      "tag": "minecraft:oak_log"
+    },
+    "G": {
+      "tag": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:oak_full_drawers_1",
+    "count": 2
+  }
+}

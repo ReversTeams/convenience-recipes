@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "EFG"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:warped_log"
+    },
+    "B": {
+      "tag": "minecraft:warped_log"
+    },
+    "C": {
+      "tag": "minecraft:warped_log"
+    },
+    "D": {
+      "tag": "minecraft:warped_log"
+    },
+    "E": {
+      "tag": "minecraft:warped_log"
+    },
+    "F": {
+      "tag": "minecraft:warped_log"
+    },
+    "G": {
+      "tag": "minecraft:warped_log"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:warped_full_drawers_1",
+    "count": 2
+  }
+}

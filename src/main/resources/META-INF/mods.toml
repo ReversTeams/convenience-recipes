@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="conveniencerecipes"
-version="1.0.3"
+version="1.0.4"
 displayName="Convenience Recipes"
 displayURL="https://curseforge.com/minecraft/mc-mods/convenience-recipes"
 logoFile="logo.png"

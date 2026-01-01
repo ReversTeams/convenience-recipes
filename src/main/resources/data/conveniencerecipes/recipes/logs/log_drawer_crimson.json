@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "EFG"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:crimson_log"
+    },
+    "B": {
+      "tag": "minecraft:crimson_log"
+    },
+    "C": {
+      "tag": "minecraft:crimson_log"
+    },
+    "D": {
+      "tag": "minecraft:crimson_log"
+    },
+    "E": {
+      "tag": "minecraft:crimson_log"
+    },
+    "F": {
+      "tag": "minecraft:crimson_log"
+    },
+    "G": {
+      "tag": "minecraft:crimson_log"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:crimson_full_drawers_1",
+    "count": 2
+  }
+}
