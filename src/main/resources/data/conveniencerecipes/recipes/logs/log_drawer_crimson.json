@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     },
     "B": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     },
     "C": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     },
     "D": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     },
     "E": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     },
     "F": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     },
     "G": {
-      "tag": "minecraft:crimson_log"
+      "item": "minecraft:crimson_log"
     }
   },
   "result": {

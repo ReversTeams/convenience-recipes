@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     },
     "B": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     },
     "C": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     },
     "D": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     },
     "E": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     },
     "F": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     },
     "G": {
-      "tag": "minecraft:warped_log"
+      "item": "minecraft:warped_log"
     }
   },
   "result": {

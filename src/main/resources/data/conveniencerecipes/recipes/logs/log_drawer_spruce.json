@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     },
     "B": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     },
     "C": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     },
     "D": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     },
     "E": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     },
     "F": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     },
     "G": {
-      "tag": "minecraft:spruce_log"
+      "item": "minecraft:spruce_log"
     }
   },
   "result": {

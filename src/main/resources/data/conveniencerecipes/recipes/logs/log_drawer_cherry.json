@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     },
     "B": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     },
     "C": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     },
     "D": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     },
     "E": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     },
     "F": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     },
     "G": {
-      "tag": "minecraft:cherry_log"
+      "item": "minecraft:cherry_log"
     }
   },
   "result": {

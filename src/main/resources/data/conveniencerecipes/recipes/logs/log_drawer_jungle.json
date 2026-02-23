@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     },
     "B": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     },
     "C": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     },
     "D": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     },
     "E": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     },
     "F": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     },
     "G": {
-      "tag": "minecraft:jungle_log"
+      "item": "minecraft:jungle_log"
     }
   },
   "result": {

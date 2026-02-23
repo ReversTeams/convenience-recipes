@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     },
     "B": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     },
     "C": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     },
     "D": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     },
     "E": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     },
     "F": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     },
     "G": {
-      "tag": "minecraft:mangrove_log"
+      "item": "minecraft:mangrove_log"
     }
   },
   "result": {

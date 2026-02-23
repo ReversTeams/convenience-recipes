@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     },
     "B": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     },
     "C": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     },
     "D": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     },
     "E": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     },
     "F": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     },
     "G": {
-      "tag": "minecraft:acacia_log"
+      "item": "minecraft:acacia_log"
     }
   },
   "result": {

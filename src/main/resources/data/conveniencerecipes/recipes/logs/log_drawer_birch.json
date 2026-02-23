@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     },
     "B": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     },
     "C": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     },
     "D": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     },
     "E": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     },
     "F": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     },
     "G": {
-      "tag": "minecraft:birch_log"
+      "item": "minecraft:birch_log"
     }
   },
   "result": {

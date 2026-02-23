@@ -7,25 +7,25 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     },
     "B": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     },
     "C": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     },
     "D": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     },
     "E": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     },
     "F": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     },
     "G": {
-      "tag": "minecraft:dark_oak_log"
+      "item": "minecraft:dark_oak_log"
     }
   },
   "result": {
