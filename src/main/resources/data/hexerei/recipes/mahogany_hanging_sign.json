@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A B",
+    "CDE",
+    "FGH"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chain"
+    },
+    "B": {
+      "item": "minecraft:chain"
+    },
+    "C": {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    "D": {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    "E": {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    "F": {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    "G": {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    "H": {
+      "item": "hexerei:stripped_mahogany_log"
+    }
+  },
+  "result": {
+    "item": "hexerei:mahogany_hanging_sign",
+    "count": 6
+  }
+}

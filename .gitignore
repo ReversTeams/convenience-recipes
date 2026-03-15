@@ -1,5 +1,5 @@
-/build
-/run
+build
+run
 /bin
 .gradle
 .mcreator

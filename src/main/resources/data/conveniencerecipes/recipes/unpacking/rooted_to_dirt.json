@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:rooted_dirt",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 1
+  }
+}

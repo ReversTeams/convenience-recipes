@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A B",
+    "CDE",
+    "FGH"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chain"
+    },
+    "B": {
+      "item": "minecraft:chain"
+    },
+    "C": {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    "D": {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    "E": {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    "F": {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    "G": {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    "H": {
+      "item": "hexerei:stripped_witch_hazel_log"
+    }
+  },
+  "result": {
+    "item": "hexerei:witch_hazel_hanging_sign",
+    "count": 6
+  }
+}
