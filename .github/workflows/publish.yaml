@@ -27,17 +27,14 @@ jobs:
         uses: tristankechlo/publish-mc-mod@v2.0.0
         with:
           mc-version: "1.20.1"
-          mod-version: "1.1.0"
+          mod-version: "1.1.1"
           curseforge-id: 1396136
           modrinth-id: "Br1e4HIn"
           version-range: "[1.20.1,1.20.2)"
           version-type: "release"
           loaders: "forge"
           changelog: |
-            - Added recipes to turn rooted and coarse dirt to dirt.
-            - Added hanging signs recipes for Hexerei (previously uncraftable).
-            - Separated Tag Fixes from Tag Localization Fixes.
-            - Universalized the jar.
+            - Fixed the quartz stairs recipe
 
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
