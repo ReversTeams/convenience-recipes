@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:hollow_azalea_log"
+    }
+  ],
+  "result": {
+    "item": "quark:azalea_planks",
+    "count": 2
+  }
+}

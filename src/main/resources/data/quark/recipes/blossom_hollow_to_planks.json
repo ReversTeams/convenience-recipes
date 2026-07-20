@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:hollow_blossom_log"
+    }
+  ],
+  "result": {
+    "item": "quark:blossom_planks",
+    "count": 2
+  }
+}
